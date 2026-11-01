@@ -1,0 +1,4 @@
+PatientID,Name,Age,Department,Doctor,Phone,Diagnosis
+P1001,Aarav Sharma,34,Cardiology,Dr Mehta,9876501001,Regular checkup
+P1002,Simran Kaur,27,Orthopedics,Dr Rao,9876501002,Knee pain
+P1003,Rahul Verma,45,Neurology,Dr Singh,9876501003,Consultation
